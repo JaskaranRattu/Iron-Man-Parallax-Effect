@@ -2,6 +2,9 @@
 
     margin: 0;
     padding: 0;
+    span{
+        color: red;
+    }
 }
 
 .container {
@@ -50,9 +53,6 @@
     letter-spacing: 5px;
 }
 
-.home>h1>span {
-    color: red;
-}
 
 .about {
 
@@ -242,9 +242,6 @@
 
 }
 
-.collage>h1>span {
-    color: red;
-}
 
 footer {
     height: 100vh;
@@ -273,8 +270,4 @@ footer>.self {
     top: 300px;
     left: 130px;
     letter-spacing: 5px;
-}
-
-.self>h1>span {
-    color: red;
 }

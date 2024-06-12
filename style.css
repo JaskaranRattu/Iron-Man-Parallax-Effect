@@ -129,7 +129,7 @@
     background-size: 100%;
     background-position: center;
     background-attachment: fixed;
-    
+
 
 }
 
@@ -173,6 +173,7 @@
     background-size: 80%;
     background-position: center;
     background-attachment: fixed;
+    
 }
 
 .collage>h1 {
@@ -210,16 +211,14 @@ footer>.self {
 .self>h1 {
 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-top: 80px;
     font-size: 50px;
     color: white;
     text-transform: uppercase;
-    /* background-color: blueviolet; */
     width: 40%;
     position: relative;
     top: 300px;
     left: 130px;
-    letter-spacing: 7px;
+    letter-spacing: 5px;
 }
 
 .self>h1>span {

@@ -164,6 +164,60 @@
     transition: 1.5s;
 } */
 
+.armour {
+
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
+.armour>.left {
+
+    width: 30%;
+    height: 100%;
+    /* background-color: rgb(0, 255, 8); */
+    background-image: url(Images/Armour2.jpg);
+    background-size: 30%;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.armour>.right {
+
+    width: 30%;
+    height: 100%;
+    background-image: url(Images/Armour.jpg);
+    background-size: 30%;
+    background-position: 1063px 0px;
+    background-color: teal;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-attachment: fixed;
+
+}
+
+.armour>.armourText{
+
+    width: 40%;
+    margin: 0px auto;
+    font-size: 22px;
+    padding: 40px 40px;
+    text-align: justify;
+    font-family: sans-serif;
+    color: white;
+    box-sizing: border-box;
+}
+
+.armour .armourText h3{
+
+    color: red;
+}
+
+
+
 .collage {
 
     height: 100vh;
@@ -173,7 +227,7 @@
     background-size: 80%;
     background-position: center;
     background-attachment: fixed;
-    
+
 }
 
 .collage>h1 {

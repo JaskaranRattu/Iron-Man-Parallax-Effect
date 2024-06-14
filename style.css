@@ -13,29 +13,16 @@
 
 }
 
-/* header {
-
-    height: 120px;
-    background-color: rgb(0, 0, 0);
-    display: grid;
-    place-items: center;
-
-} */
-
-/* header>img {
-
-    width: 400px;
-    height: 120px;
-} */
-
 .home {
 
     height: 110vh;
     background-image: url(Images/Eye.jpg);
     background-repeat: no-repeat;
     background-size: 50%;
-    background-position: 750px 130px;
+    background-position: 750px 150px;
     background-attachment: fixed;
+    display: flex;
+    align-items: center;
 
 }
 
@@ -48,8 +35,8 @@
     /* background-color: blueviolet; */
     width: 30%;
     position: relative;
-    top: 250px;
     left: 100px;
+    top: -30px;
     letter-spacing: 5px;
 }
 

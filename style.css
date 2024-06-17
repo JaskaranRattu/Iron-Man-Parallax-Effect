@@ -112,7 +112,6 @@
     background-position: center;
     background-attachment: fixed;
 
-
 }
 
 .genius>.right {
@@ -186,8 +185,6 @@
     color: red;
 }
 
-
-
 .collage {
 
     height: 100vh;
@@ -241,3 +238,4 @@ footer>.self {
     left: 130px;
     letter-spacing: 5px;
 }
+

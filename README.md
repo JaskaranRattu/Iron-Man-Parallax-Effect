@@ -1,2 +1,1 @@
-######Iron Man Parallax Effect######
-####Crafted by Jakaran Rattu####
+Iron Man Parallax Effect
